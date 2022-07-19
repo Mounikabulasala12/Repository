@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hi]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-19T16:30:24 IST" name="Default suite" finished-at="2022-07-19T16:30:24 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T16:30:24 IST" name="Default test" finished-at="2022-07-19T16:30:24 IST" duration-ms="98">
+      <class name="selenium.practice1">
+        <test-method signature="practiceTest()[pri:0, instance:selenium.practice1@4803b726]" started-at="2022-07-19T16:30:24 IST" name="practiceTest" finished-at="2022-07-19T16:30:24 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- practiceTest -->
+      </class> <!-- selenium.practice1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
