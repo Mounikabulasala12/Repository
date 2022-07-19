@@ -13,6 +13,7 @@ public class practice1 {
 
 public void practicTest2() {
 	Reporter.log("hello",true);
+	//this is added again
 	
 }
 
