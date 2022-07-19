@@ -6,7 +6,8 @@ import org.testng.annotations.Test;
 public class practice1 {
 @Test
 	public void practiceTest() {
-	Reporter.log("hi",true);	
+	Reporter.log("hi",true);
+		//this is latest added program
 	}
 
 
